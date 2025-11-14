@@ -1,0 +1,58 @@
+{
+  "item": {
+    "name": "FlowChat",
+    "description": "【环间AI助手】随时随地，对话AI。购买链接：https://afdian.com/item/3dac3b82bc4a11f0810452540025c377",
+    "preview": [
+      "preview.png",
+      "preview2.png",
+      "preview3.png",
+      "preview4.png",
+      "preview5.png"
+    ],
+    "icon": "icon.png",
+    "author": [
+      {
+        "name": "Zaona",
+        "author_url": "https://github.com/zaona"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "0.3.1",
+      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+    },
+    "n67": {
+      "version": "0.3.1",
+      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+    },
+    "o66": {
+      "version": "0.3.1",
+      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+    },
+    "o66nfc": {
+      "version": "0.3.1",
+      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+    },
+    "o62": {
+      "version": "0.3.1",
+      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+    },
+    "o62m": {
+      "version": "0.3.1",
+      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+    },
+    "o65": {
+      "version": "0.3.1",
+      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+    },
+    "o65m": {
+      "version": "0.3.1",
+      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+    },
+    "p65": {
+      "version": "0.3.1",
+      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+    }
+  }
+}
