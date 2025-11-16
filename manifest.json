@@ -4,11 +4,12 @@
     "description": "FlowChat - 环间AI助手 - 随时随地，对话AI 🤖 扫描二维码购买 ✨ 功能特性：在手表上向AI提问；搭配同步器APP使用；支持Qwen/DeepSeek模型",
     "preview": [
       "preview.png",
+      "preview-phone.png",
       "buy.png",
-      "preview2.png",
-      "preview3.png",
-      "preview4.png",
-      "preview5.png"
+      "divice1.png",
+      "divice2.png",
+      "divice3.png",
+      "divice4.png"
     ],
     "icon": "icon.png",
     "author": [
@@ -20,40 +21,40 @@
   },
   "downloads": {
     "n66": {
-      "version": "0.3.1",
-      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+      "version": "0.3.2",
+      "file_name": "com.application.zaona.flowchat.release.0.3.2.rpk"
     },
     "n67": {
-      "version": "0.3.1",
-      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+      "version": "0.3.2",
+      "file_name": "com.application.zaona.flowchat.release.0.3.2.rpk"
     },
     "o66": {
-      "version": "0.3.1",
-      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+      "version": "0.3.2",
+      "file_name": "com.application.zaona.flowchat.release.0.3.2.rpk"
     },
     "o66nfc": {
-      "version": "0.3.1",
-      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+      "version": "0.3.2",
+      "file_name": "com.application.zaona.flowchat.release.0.3.2.rpk"
     },
     "o62": {
-      "version": "0.3.1",
-      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+      "version": "0.3.2",
+      "file_name": "com.application.zaona.flowchat.release.0.3.2.rpk"
     },
     "o62m": {
-      "version": "0.3.1",
-      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+      "version": "0.3.2",
+      "file_name": "com.application.zaona.flowchat.release.0.3.2.rpk"
     },
     "o65": {
-      "version": "0.3.1",
-      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+      "version": "0.3.2",
+      "file_name": "com.application.zaona.flowchat.release.0.3.2.rpk"
     },
     "o65m": {
-      "version": "0.3.1",
-      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+      "version": "0.3.2",
+      "file_name": "com.application.zaona.flowchat.release.0.3.2.rpk"
     },
     "p65": {
-      "version": "0.3.1",
-      "file_name": "com.application.zaona.flowchat.release.0.3.1.rpk"
+      "version": "0.3.2",
+      "file_name": "com.application.zaona.flowchat.release.0.3.2.rpk"
     }
   }
 }
